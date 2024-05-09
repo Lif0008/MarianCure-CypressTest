@@ -1,1 +1,1 @@
-# MarianCure-CypressTest
+# MarianCure - FrontEnd Automated Test
